@@ -3,6 +3,5 @@
 __pycache__
 .vscode/
 models/*
-data/
 .idea
 venv
