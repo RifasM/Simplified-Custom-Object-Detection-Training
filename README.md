@@ -1,4 +1,5 @@
 # Custom Object Detection Simplified
+[Google Colab Link](https://colab.research.google.com/github/RifasM/Simplified-Custom-Object-Detection-Training)
 
 ## How to Run
 Use TensorFlow 1.15 \
@@ -12,6 +13,7 @@ https://github.com/RifasM/Simplified-Custom-Object-Detection-Training
 
 
 ### Step 1: Annotate some images
+- Delete the existing Pictures in the Folders `./data/raw`, './data/images`
 - Save some pictures with your custom object(s), ideally with `jpg` extension to `./data/raw` directory.(>20 Suggested)
 - Resize those pictures to uniformed size. e.g. `(800, 600)` using the command
 ```
